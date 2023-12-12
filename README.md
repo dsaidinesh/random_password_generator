@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Password Generator</title>
-</head>
+
 <body>
 
 <h1>Password Generator 🛡️</h1>
